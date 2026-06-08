@@ -341,17 +341,6 @@ See `deployment/aws/` for CloudFormation templates and task definitions.
 
 ---
 
-## Resume Bullet Points
-
-> Copy and adapt these for your CV/resume:
-
-- **Designed and deployed an end-to-end ML system** for soap penetration value prediction using XGBoost (R² = 0.91, +8pp over baseline), improving prediction accuracy from 83% to 91% in a simulated FMCG manufacturing environment
-- **Engineered 32 domain-informed features** including nonlinear vacuum pressure terms, turbo speed statistics, and interaction features that captured physics of soap plodding, achieving RMSE of 0.049 PV units
-- **Built a FastAPI microservice** serving real-time predictions, SHAP explanations, and a stochastic process optimizer (800-iteration perturbation search) that recommends corrective parameter adjustments for out-of-spec batches
-- **Developed a Next.js 14 operations dashboard** with an SVG PV gauge, SPC control charts, SHAP waterfall visualizations, and real-time quality monitoring with corrective action routing
-- **Containerized a full-stack ML application** using Docker Compose (PostgreSQL, Redis, Nginx, FastAPI, Next.js) with GitHub Actions CI/CD pipeline deploying to Render
-
----
 
 ## License
 
